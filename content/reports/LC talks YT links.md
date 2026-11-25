@@ -2,36 +2,35 @@
 
 #lectures #youtube #covid
 
-All video links extracted from talk notes. Clean URLs (no tracking params).
 
 ---
 
 ## Dated Talks
 
-| Date | Title / Speaker | Link | Note |
-|------|-----------------|------|------|
-| 2026-11-22 | Danilo Buonsenso — Long COVID treatment | https://www.youtube.com/live/F5IQPoHhc6k | [[2026sept18_YT_Danilo_longCOVIDtx]] |
-| 2026-09-22 | Nancy Klimas — ME/CFS & Long COVID: Viral Reactivation to Treatment | https://www.youtube.com/watch?v=9J-WO9dcoWk | [[2026sept22 MECFS and Long COVID From Viral Reactivation to Treatment with Nancy Klimas, M.D.]] |
-| 2026-09-09 | BHC Coffee w/ Clinician Ch. 7 — OI & Dysautonomia Pt. 1 | https://www.youtube.com/watch?v=pmmk-mVSSis | [[2026Sept09_BH_"Coffee" with a Clinician Chapter 7 - Orthostatic Intolerance & Dysautonomia Part 1]] |
-| 2026-08-21 | Vagal nerve stim study (RR) | https://youtu.be/_ku1beUOdZc | [[2026-08-21 RR  vagal nerve stim study]] |
-| 2026-07-22 | SILC ECHO — Ric Arsenau + Alba Azola Q&A | https://youtu.be/EaEIgT2rGhw | from `!! medical lectures` |
-| 2026-06-10 | BHC — PEM Part 4 | https://youtu.be/YgUST9YD1JU | [[2026jun10_YT_BHC__PEM]] |
-| 2026-04 | Putrino + Danilo Buonsenso — AMA Pediatrics (CORE Sinai) | https://www.youtube.com/watch?v=aCh6J-vDTVE | [[2026-04 Ask Me Anything with Dr. Putrino Pediatrics Edition with Dr. Danilo Buonsenso April 2026]] |
-| 2026-03-26 | Global Long COVID ECHO — Evening Series | https://www.youtube.com/watch?v=2jNsWbLjkL0 | [[2026-03-26 Global Long Covid ECHO Webinar Series - Evening Series English]] |
-| 2026-03-25 | Global Long COVID ECHO — Morning Series | https://www.youtube.com/watch?v=n0hzPFWnZrs | [[Global Long Covid ECHO Webinar Series Morning Series 2026-03-25 English]] |
-| 2025-12-10 | Svetlana Blitshteyn — ECHO | https://youtu.be/c4TLmFATme4 | [[2025dec10_echo svetlana blitshteym]] |
-| 2025-11-22 | Metformin in Long COVID & ME/CFS | https://www.youtube.com/watch?v=olYFCLW8h3w | [[2025-11-22Understanding metformin use and Long COVID and MECFS following COVID-19 infection]] |
-| 2025-10-16 | Brayden Yellman — Underappreciated Comorbidities in ME/CFS | https://www.youtube.com/watch?v=od0epKW19og | [[2025-10-16 Brayden Yellman, MD  Underappreciated Co-Morbidities in MECFS]] |
-| 2025-07-21 | Characterizing Long COVID During Early Childhood | https://www.youtube.com/watch?v=hVkR-b66kk8 | [[2025july21 Characterizing Long COVID during early childhood]] |
-| 2025-07-09 | PLRC | https://www.youtube.com/watch?v=2DQZp48fyek | [[2025jul09_PLRC]] |
-| 2025-04-02 | Neuroimmune Axis Disorders: Learning to See the Invisible | https://www.youtube.com/watch?v=OjUygXwTAFY | [[2025april2 "Neuroimmune Axis Disorders Learning to See the Invisible"]] |
-| 2025-01-17 | Carla Kuon — Grand Rounds, UCSF Osher Center | https://www.youtube.com/watch?v=lvNtO9UFMH0 | [[2025Jan17_Grand RoundsUCSFOsherCenter_Carla Kuon]] |
-| 2024-12 | Dr. Cynthia Thaik — POTS Mechanisms & Lifestyle (LADN) | https://www.youtube.com/watch?v=Ftn8_Pmz58w | [[2024dec LADN & Dr. Cynthia Thaik - Understanding POTS Mechanisms & Lifestyle Approaches to Symptom Relief]] |
-| 2024-02-16 | Sanil Rege — The Long COVID Puzzle (YT) | https://www.youtube.com/watch?v=urjlnmpziKw | [[2024feb16 YT SanilRege The Long COVID Puzzle How It Affects Your Brain & Body]] |
-| 2023-03-31 | How Focusing on Recovery First Can Help Long COVID Patients | https://www.youtube.com/watch?v=RpvAPuQoWs8 | [[2023march31_How Focusing on Recovery First Can Help Long COVID Patients to Regain Physical Fitness]] |
-| 2023-02-20 | Reiner Buchhorn — Heart Rate from Heart Failure to Long COVID | https://www.youtube.com/watch?v=e9GR55_MDAE | [[2023Feb20_ReinerBuchhorn_The special importance of heart rate for health and disease From heart failure to Long COVID]] |
-| 2022-09 | Dr. Pradeep Chopra — Connecting Dots in EDS | https://www.youtube.com/watch?v=zd1K2EL9VjI | [[Dr. Pradeep Chopra Connecting Dots in EDS  (Sept 2022)]] |
-| 2019 | Andrew Maxwell — The Pentad | https://www.youtube.com/watch?v=2mIzE2X9OJk | [[2019 Andrew Maxwell the pentad]] |
+| Date       | Title / Speaker                                                     | Link                                        |
+| ---------- | ------------------------------------------------------------------- | ------------------------------------------- |
+| 2026-11-22 | Danilo Buonsenso — Long COVID treatment                             | https://www.youtube.com/live/F5IQPoHhc6k    |
+| 2026-09-22 | Nancy Klimas — ME/CFS & Long COVID: Viral Reactivation to Treatment | https://www.youtube.com/watch?v=9J-WO9dcoWk |
+| 2026-09-09 | BHC Coffee w/ Clinician Ch. 7 — OI & Dysautonomia Pt. 1             | https://www.youtube.com/watch?v=pmmk-mVSSis |
+| 2026-08-21 | Vagal nerve stim study (RR)                                         | https://youtu.be/_ku1beUOdZc                |
+| 2026-07-22 | SILC ECHO — Ric Arsenau + Alba Azola Q&A                            | https://youtu.be/EaEIgT2rGhw                |
+| 2026-06-10 | BHC — PEM Part 4                                                    | https://youtu.be/YgUST9YD1JU                |
+| 2026-04    | Putrino + Danilo Buonsenso — AMA Pediatrics (CORE Sinai)            | https://www.youtube.com/watch?v=aCh6J-vDTVE |
+| 2026-03-26 | Global Long COVID ECHO — Evening Series                             | https://www.youtube.com/watch?v=2jNsWbLjkL0 |
+| 2026-03-25 | Global Long COVID ECHO — Morning Series                             | https://www.youtube.com/watch?v=n0hzPFWnZrs |
+| 2025-12-10 | Svetlana Blitshteyn — ECHO                                          | https://youtu.be/c4TLmFATme4                |
+| 2025-11-22 | Metformin in Long COVID & ME/CFS                                    | https://www.youtube.com/watch?v=olYFCLW8h3w |
+| 2025-10-16 | Brayden Yellman — Underappreciated Comorbidities in ME/CFS          | https://www.youtube.com/watch?v=od0epKW19og |
+| 2025-07-21 | Characterizing Long COVID During Early Childhood                    | https://www.youtube.com/watch?v=hVkR-b66kk8 |
+| 2025-07-09 | PLRC                                                                | https://www.youtube.com/watch?v=2DQZp48fyek |
+| 2025-04-02 | Neuroimmune Axis Disorders: Learning to See the Invisible           | https://www.youtube.com/watch?v=OjUygXwTAFY |
+| 2025-01-17 | Carla Kuon — Grand Rounds, UCSF Osher Center                        | https://www.youtube.com/watch?v=lvNtO9UFMH0 |
+| 2024-12    | Dr. Cynthia Thaik — POTS Mechanisms & Lifestyle (LADN)              | https://www.youtube.com/watch?v=Ftn8_Pmz58w |
+| 2024-02-16 | Sanil Rege — The Long COVID Puzzle (YT)                             | https://www.youtube.com/watch?v=urjlnmpziKw |
+| 2023-03-31 | How Focusing on Recovery First Can Help Long COVID Patients         | https://www.youtube.com/watch?v=RpvAPuQoWs8 |
+| 2023-02-20 | Reiner Buchhorn — Heart Rate from Heart Failure to Long COVID       | https://www.youtube.com/watch?v=e9GR55_MDAE |
+| 2022-09    | Dr. Pradeep Chopra — Connecting Dots in EDS                         | https://www.youtube.com/watch?v=zd1K2EL9VjI |
+| 2019       | Andrew Maxwell — The Pentad                                         | https://www.youtube.com/watch?v=2mIzE2X9OJk |
 
 ---
 
