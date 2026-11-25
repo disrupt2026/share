@@ -7,7 +7,7 @@ title: Mothers Opposing Barriers
 ## THE NETWORK 
 
 
-  - [RECOVER NETWORK](/recover-network)
+  - [RECOVER NETWORK](/recover-network.html)
 
 - [[reports/005 network org list|Network Organization List]]
 
@@ -25,7 +25,7 @@ title: Mothers Opposing Barriers
 
 ## RECOVER data (publicly available)
 
-[RECOVER PEDIATRIC COHORT data query](/compass31_overview)
+[RECOVER PEDIATRIC COHORT data query](/compass31_overview.html)
 
 
 
